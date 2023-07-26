@@ -1,0 +1,10 @@
+* cl-acronyms
+
+An acronym expander that utilizes a templating system.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/isoraqathedh/cl-acronyms.git   |
+| commit  | d00590c  |
+| systems | cl-acronyms |
+|---------+-------------------------------------------|
+
